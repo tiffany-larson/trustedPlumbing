@@ -1,4 +1,3 @@
-<script>
 var adgroup = null;
 var adcreative = null;
 var string= " ";
@@ -55,6 +54,3 @@ function titleCase(str) {
   }
   return str.join(' ');
 }
-
-
-</script>
